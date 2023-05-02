@@ -1,6 +1,6 @@
 # IDS721-week11
 
-## Description: 
+## Random password
 
 In this program, we use Rust's rand crate to generate a random password. 
 * First, we define the string containing the available characters and the length of the password. 
